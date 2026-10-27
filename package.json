@@ -1,0 +1,11 @@
+{
+  "name": "ifradlin-profile",
+  "private": true,
+  "scripts": {
+    "generate": "node generate_banner.cjs"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "0.1.100",
+    "svg-path-properties": "2.0.0"
+  }
+}
